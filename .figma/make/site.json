@@ -1,0 +1,10 @@
+{
+  "description": "Showcases an expert Generative AI and Machine Learning Engineer's skills, projects, and experience through a polished, recruiter-friendly portfolio website.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
